@@ -33,3 +33,6 @@ point_one=Point(x=2,y=4)
 # point_one.dis_to_origin()
 
 point_one.reflect("y")
+
+
+print("hi my brathre")
